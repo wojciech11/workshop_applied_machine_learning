@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+pandas
+# <<< tutaj biblioteki do pracy z modelem
